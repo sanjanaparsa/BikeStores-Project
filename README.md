@@ -33,12 +33,12 @@ The SQL queries yield results in the form of datasets that provide insights into
 - After extracting the necessary data from SQL, I used Excel to create pivot tables and charts for initial data exploration and analysis.
 
 - Connecting SQL Dataset to Excel Workbook 
-Connected to the SQL database from Excel using the "Get & Transform Data" feature. This allowed to query the database directly and pull in live data for analysis.
+Connected to the SQL database from Excel using the "Get & Transform Data" feature. This allowed me to query the database directly and pull in live data for analysis.
 
 - Creating Pivot Tables and Pivot Charts 
 Pivot Table: Organized the data based on key metrics such as sales by product category, total revenue, or customer location.
 
-Pivot Chart: Created visual charts such as bar graphs and line charts to depict the sales trends, revenue comparisons, etc.
+Pivot Chart: Created visual charts such as bar graphs and line charts to depict sales trends, revenue comparisons, etc.
 
 Stopping PivotTable Grouping from affecting another PivotTable: A common Excel challenge is to ensure that grouping in one PivotTable doesn’t affect others. This is solved by ensuring each PivotTable is independent.
 
@@ -56,7 +56,7 @@ Slicers are added to make the dashboard interactive, allowing users to filter da
 - Tableau is used to build an interactive, visually appealing dashboard that provides deeper insights into sales performance.
 
 - Connect Excel Dataset to Tableau Workbook 
-Imported the Excel dataset into Tableau and prepare the data for visualization.
+Imported the Excel dataset into Tableau and prepared the data for visualization.
 
 - Setting Default Properties
 Set the default properties for fields, such as date formatting and numeric precision, to ensure accurate visualizations.
@@ -76,12 +76,19 @@ Banner: Added a banner to the dashboard to provide context or summarize key insi
 Designed a comprehensive executive dashboard that summarizes all key metrics, enabling senior management to make data-driven decisions at a glance.
 
 
-Interactivity: Allow users to interact with the dashboard, selecting different periods, products, and regions to explore performance.
+Interactivity: Allow users to interact with the dashboard, selecting different time periods, products, and regions to explore performance.
 
 - Contextual Calculated Field
 Used a calculated field in Tableau to display dynamic text that changes based on user selection, providing a more contextual experience for users.
 - Publishing to Tableau Public
 Saved and published the Tableau dashboard to Tableau Public to share it with stakeholders and make it publicly accessible for viewing and interaction.
+
+
+## Snapshot of Dashboard
+
+Bike stores Dashboard
+
+![Bikestores DASHBOARD snap](https://github.com/user-attachments/assets/6e128f7a-a937-4f6b-8048-a3d93bbf0c27)
 
 
 ## Key Insights and Outcomes
